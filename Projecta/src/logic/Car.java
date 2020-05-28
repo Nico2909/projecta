@@ -26,4 +26,8 @@ public class Car {
         this.mileAge = mileAge;
         this.actualSpeed = actualSpeed;
     }
+
+    public void beschleunigen() {
+        this.actualSpeed += 5;
+    }
 }
