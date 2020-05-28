@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="462ad96c-1f4a-493f-beaf-5c4b7277357d" name="Default Changelist" comment="" />
+    <list default="true" id="462ad96c-1f4a-493f-beaf-5c4b7277357d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,11 +13,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/paket/UIMain.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
               <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/paket/UIMain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/logic/Car.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding>
+                <element signature="e#64#65#0" expanded="true" />
+                <element signature="e#94#95#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
+                <element signature="e#270#271#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+              </folding>
+>>>>>>> origin/master
             </state>
           </provider>
         </entry>
@@ -35,7 +63,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/src/paket/UIMain.java" />
+=======
+        <option value="$PROJECT_DIR$/src/logic/Car.java" />
+>>>>>>> origin/master
       </list>
     </option>
   </component>
@@ -52,7 +84,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
       <pane id="PackagesPane" />
+=======
+>>>>>>> origin/master
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -70,19 +105,34 @@
               <item name="Projecta" type="b2602c69:ProjectViewProjectNode" />
               <item name="Projecta" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+<<<<<<< HEAD
+=======
+              <item name="logic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Projecta" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Projecta" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+>>>>>>> origin/master
               <item name="paket" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+<<<<<<< HEAD
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590662174162" />
+=======
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1590662604704" />
+>>>>>>> origin/master
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -104,6 +154,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590582716998</updated>
     </task>
+<<<<<<< HEAD
     <task id="LOCAL-00001" summary="Carobjekt instanziiert">
       <created>1590662191628</created>
       <option name="number" value="00001" />
@@ -112,12 +163,34 @@
       <updated>1590662191629</updated>
     </task>
     <option name="localTasksCounter" value="2" />
+=======
+    <task id="LOCAL-00001" summary="Klasse Car hinzugefügt">
+      <created>1590660654876</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1590660654876</updated>
+    </task>
+    <task id="LOCAL-00002" summary="getter und setter hinzugefügt">
+      <created>1590662337175</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590662337175</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+>>>>>>> origin/master
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1913" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
+<<<<<<< HEAD
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2534413" />
+=======
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2574899" />
+>>>>>>> origin/master
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -144,6 +217,7 @@
       <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
+<<<<<<< HEAD
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -175,12 +249,41 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="Carobjekt instanziiert" />
     <option name="LAST_COMMIT_MESSAGE" value="Carobjekt instanziiert" />
+=======
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Klasse Car hinzugefügt" />
+    <MESSAGE value="getter und setter hinzugefügt" />
+    <option name="LAST_COMMIT_MESSAGE" value="getter und setter hinzugefügt" />
+>>>>>>> origin/master
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/paket/UIMain.java">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="170">
           <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+=======
+        <state relative-caret-position="68">
+          <caret line="4" column="19" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/logic/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="33" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="e#64#65#0" expanded="true" />
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#270#271#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+          </folding>
+>>>>>>> origin/master
         </state>
       </provider>
     </entry>
